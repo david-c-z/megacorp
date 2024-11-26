@@ -1,5 +1,3 @@
-# megacorp
+# megacorp | good marketing example
 
-The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.
-
-Update the README before stash
+MegaCorp is *the* enterprise Customer Relationship Management (CRM) software. It is a great example of how to market a product.
